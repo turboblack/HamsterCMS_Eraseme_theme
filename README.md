@@ -1,0 +1,2 @@
+# HamsterCMS_Eraseme_theme
+HamsterCMS_Eraseme_theme
